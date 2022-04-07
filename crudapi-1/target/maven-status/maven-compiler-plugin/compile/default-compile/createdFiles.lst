@@ -1,0 +1,11 @@
+com\pepcus\apicrud\exception\ResourceNoteFoundException.class
+com\pepcus\apicrud\service\StudentService.class
+com\pepcus\apicrud\repository\StudentRepository.class
+com\pepcus\apicrud\model\StudentAddress.class
+com\pepcus\apicrud\service\impl\StudentAddressServiceImpl.class
+com\pepcus\apicrud\controller\StudentController.class
+com\pepcus\apicrud\repository\StudentAddressRepository.class
+com\pepcus\apicrud\service\impl\StudentServiceImpl.class
+com\pepcus\apicrud\service\StudentAddressService.class
+com\pepcus\apicrud\Crudapi1Application.class
+com\pepcus\apicrud\model\Student.class
