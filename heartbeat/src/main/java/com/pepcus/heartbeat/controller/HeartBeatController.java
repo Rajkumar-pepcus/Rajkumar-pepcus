@@ -13,7 +13,6 @@ public class HeartBeatController {
 
 	@GetMapping("/health")
 	public String getHealth() {
-
 		return heartBeatService.healthCheck();
 	}
 
