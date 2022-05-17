@@ -80,6 +80,6 @@ public class Student {
 
 	public void setStudentAddressList(List<StudentAddress> studentAddressList) {
 		this.studentAddressList = studentAddressList;
-	}
+	}   
 
 }
